@@ -1,14 +1,14 @@
 # QuickChef
-Meal delivery Application
+## Meal delivery Application
 
-Description:
+### Description:
 
 > 1. We are connecting to the mysql database for the login, Register and store all the product details and list of restuarants from the api
 > 2. We are using the MongoDB(No sql) databse for storing the review and retrieving the review to the UI
 > 3. We will be able to add, delete and update the menu item from the UI
 > 4. We are using the Ajax utility function for the autocorrect option of the restuarants names
 
-How to run the project:
+### How to run the project:
 
 > 1. Start you mysql
 > 2. Run the Query script in the mysql and create a table for the restuarants .
